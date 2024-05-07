@@ -1,8 +1,10 @@
 ---
+layout: default
 title: Home
-layout: home
 nav_order: 1
+description:
+permalink: /
 ---
 
-
-Welcome to the home page!!
+# Focus on writing good documentation
+{: .fs-9 }
