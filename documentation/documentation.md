@@ -3,7 +3,7 @@ layout: default
 title: Documentation
 nav_order: 3
 has_children: true
-permalink: /docs/documentation
+permalink: /portfolio/docs
 ---
 
 # UI Components
