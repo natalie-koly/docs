@@ -5,4 +5,4 @@ parent: Documentation
 nav_order: 1
 ---
 
-![How-Tos | Internet On-Demand](/docs/assets/InternetOnDemand_how-to-article.pdf)
+![How-Tos | Internet On-Demand](/docs/assets/InternetOnDemand_authentication.png)
