@@ -1,6 +1,6 @@
 ---
 layout: default
-title: API docs
+title: Typography
 parent: Documentation
 nav_order: 1
 ---
